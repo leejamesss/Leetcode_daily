@@ -29,8 +29,8 @@
 
 ## 结果展示
 
-我们会定期分享每个成员的代码实现和解题思路，并追踪整个项目的进度。你可以在 [commit history](/commits/main) 中查看我们的每次提交，也欢迎加入我们的团队，共同交流和进步。
+我们会定期分享每个成员的代码实现和解题思路，并追踪整个项目的进度。你可以在 [commit history](https://github.com/leejamesss/Leetcode_daily/commits/main) 中查看我们的每次提交，也欢迎加入我们的团队，共同交流和进步。
 
 ## 交流平台
 
-我们使用 [GitHub Issues](/issues) 作为主要的交流平台，大家可以在这里提出问题、回答问题、讨论难点等。同时我们也欢迎大家在 [Discussions](/discussions) 中分享自己的想法和经验，互相学习和交流。
+我们使用 [GitHub Issues](https://github.com/leejamesss/Leetcode_daily/issues) 作为主要的交流平台，大家可以在这里提出问题、回答问题、讨论难点等。同时我们也欢迎大家在 [Discussions](https://github.com/leejamesss/Leetcode_daily/discussions) 中分享自己的想法和经验，互相学习和交流。
