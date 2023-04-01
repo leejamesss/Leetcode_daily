@@ -14,7 +14,7 @@
 | 日期 | 题目 1 | 题目 2 |
 | --- | --- | --- |
 | 3.30 | [题目链接](https://leetcode.cn/problems/two-sum/) | [题目链接](https://leetcode.cn/problems/add-two-numbers/) |
-| 3.31 | [题目链接](LeetCode 题目地址) | [题目链接](LeetCode 题目地址) |
+| 3.31 | [题目链接](https://leetcode.cn/problems/longest-substring-without-repeating-characters/) | [题目链接](https://leetcode.cn/problems/median-of-two-sorted-arrays/) |
 | ... | ... | ... |
 
 ## 实现
