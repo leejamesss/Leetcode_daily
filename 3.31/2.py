@@ -13,8 +13,8 @@ class Solution:
             if(k==1):                                               #边界条件：k表示最小的数字
                 return min(nums1[0],nums2[0])                       #找最小数，比较数组首位
             t = min(k//2,len(nums2))                                # 保证不上溢（给出k就是最小的数字）        
-            if( nums1[t-1]>=nums2[t-1] ):
-                return helper(nums1 , nums2[t:],k-t)
+            if( nums1[t-1]>=nums2[t-1] ):                           # 递归调用比较num1[t-1]和nums2[t-1]的大小：t理解做指向两个列表中需要比较大小的数的指针
+                return helper(nums1 , nums2[t:],k-t)                
             else:
                 return helper(nums1[t:],nums2,k-t)
         return ( helper(nums1,nums2,k1) + helper(nums1,nums2,k2) ) /2
