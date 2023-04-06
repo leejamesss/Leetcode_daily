@@ -4,7 +4,7 @@
 
 ## 成员
 
-- 负责人：[James](https://github.com/leejamesss)，[YuNHz](https://github.com/YuNHz)任务分配、代码审核、文档维护等
+- 负责人：[James](https://github.com/leejamesss)，[YuNHz](https://github.com/YuNHz):任务分配、代码审核、文档维护等
 - 参与者：[James](https://github.com/leejamesss)，[YuNHz](https://github.com/YuNHz) 等，完成指定题目、代码实现、交流讨论等
 
 ## 计划
