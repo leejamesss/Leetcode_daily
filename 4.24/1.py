@@ -11,4 +11,4 @@ class Solution:
             return sub * sub
         else:
             return sub * sub * x
-计算 x 的 [n/2] 次幂的平方
+# 计算 x 的 [n/2] 次幂的平方
