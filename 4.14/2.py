@@ -1,5 +1,6 @@
 #二分查找
 #关键：找到旋转点
+#虽然旋转了，但是有两个有序的子区间
 class Solution:
     def search(self, nums: List[int], target: int) -> int:
         n = len(nums)
