@@ -1,6 +1,5 @@
 # https://leetcode.cn/problems/rotate-list/submissions/
 
-
 class ListNode:
     def __init__(self, val=0, next=None):
         self.val = val
@@ -10,19 +9,23 @@ class Solution:
     def rotateRight(self, head: ListNode, k: int) -> ListNode:
         if not head or not head.next or k == 0:
             return head
+        # 遍历一遍链表，求出链表长度
         length = 1
         tail = head
         while tail.next:
             length += 1
             tail = tail.next
+        # 对 k 进行取模
         k = k % length
         if k == 0:
             return head
-        new_tail = head
-        for i in range(length-k-1):
-            new_tail = new_tail.next
-        new_head = new_tail.next
-        new_tail.next = None
+        # 找到倒数第 k' 个结点，以及它前面的那个结点
+        last = head
+        for i in range(length - k - 1):
+            last = last.next
+        new_head = last.next
+        # 拆掉 last 和 new_head 之间的链接，并让链表尾部接到链表头部
+        last.next = None
         tail.next = head
         return new_head
 
