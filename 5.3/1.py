@@ -1,3 +1,4 @@
+#https://leetcode.cn/problems/simplify-path/submissions/
 class Solution:
     def simplifyPath(self, path: str) -> str:
         stack = []
