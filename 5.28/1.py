@@ -1,3 +1,5 @@
+# https://leetcode.cn/problems/pascals-triangle/
+
 class Solution:
     def generate(self, numRows: int) -> List[List[int]]:
         if numRows <= 0:
@@ -11,3 +13,4 @@ class Solution:
             res.append(row)
 
         return res
+# 
