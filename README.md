@@ -2,11 +2,6 @@
 
 这是一个每天刷两道 LeetCode 题目的日报项目，旨在帮助大家提高算法和数据结构的能力，并且共同进步。
 
-## 成员
-
-- 负责人：[James](https://github.com/leejamesss)，[YuNHz](https://github.com/YuNHz)，[wellinton](https://github.com/acodefarmer048):任务分配、代码审核、文档维护等
-- 参与者：[James](https://github.com/leejamesss)，[YuNHz](https://github.com/YuNHz), [wellinton](https://github.com/acodefarmer048)等，完成指定题目、代码实现、交流讨论等
-
 ## 计划
 
 每天从 LeetCode 中选取两道题目，并规定完成时间节点以保证团队内部的进度和效率。难度级别会稍有不同，以确保对于不同水平的人都具有一定的挑战性。
@@ -32,8 +27,6 @@
 - [liuyubobobo 老师的算法课]
 这些资料，在我学习算法与数据结构的道路上，都发挥了巨大的作用。
 
-## 项目预期
-我们预计在9月份前刷完1000道题目
 
 ## 结果展示
 
